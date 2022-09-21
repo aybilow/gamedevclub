@@ -1,0 +1,47 @@
+.header {
+    width: 80%;
+    height: 6rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: hotpink;
+    padding: 0 10%;
+}
+
+.logo {
+    font-size: 3rem;
+    color: darkgreen;
+    font-weight: bold;
+}
+
+.header ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: baseline;
+}
+
+.header li {
+    margin-left: 4rem;
+}
+
+.header a {
+    text-decoration: none;
+    font-size: 2.5rem;
+    color: chartreuse;
+}
+
+.header a:hover,
+.header a:active,
+.header a.active {
+    color: chartreuse;
+}
+
+.badge {
+    background-color: cornsilk;
+    color: chartreuse;
+    border-radius: 12px;
+    padding: 0 1rem;
+    margin-left: 0.5rem;
+}
