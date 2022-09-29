@@ -1,0 +1,10 @@
+.page {
+    display: grid;
+    grid-template-columns: 750px;
+    justify-content: center;
+    font-family: Ebrima, serif;
+}
+
+.mission {font-size: 60px;}
+
+.title {font-size: 45px;}
