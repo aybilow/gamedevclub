@@ -12,7 +12,7 @@ function BeegNav() {
                         <Link to='/'>Home</Link>
                     </li>
                     <li>
-                        <Link to='/'>Dummy 2</Link>
+                        <Link to='/about'>About Us</Link>
                     </li>
                     <li>
                         <Link to='/'>Dummy 3</Link>

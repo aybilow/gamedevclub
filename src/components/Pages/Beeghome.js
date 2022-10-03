@@ -8,7 +8,7 @@ function Beeghome(){
             <img src="https://pixelrino.neocities.org/hypnogifarchive/gooper-3d-look.gif" alt="Goofy Fish 🔎"/>
 
             <Card>
-                <img src={chrims} alt="Chrims :)" width="75%"/>
+                <img src={chrims} alt="Chrims :)" width="100%"/>
                 <img src="https://pixelrino.neocities.org/hypnogifarchive/pizza-dance.gif" alt="funny pizza :0" />
                 <div>
                     <h2>Game Development Club!</h2>
