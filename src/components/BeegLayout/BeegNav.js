@@ -15,7 +15,7 @@ function BeegNav() {
                         <Link to='/about'>About Us</Link>
                     </li>
                     <li>
-                        <Link to='/'>Dummy 3</Link>
+                        <Link to='/resources'>Resources</Link>
                     </li>
                 </ul>
             </nav>
